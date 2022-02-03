@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning Machine Learning and Data science
-- 👯 I’m looking to collaborate on different data science projects
+- 👯 I’m looking to collaborate on machine Learning and data science projects
 - 📫 Reach me at -  @kumarrupesh2002@gmail.com
 
 

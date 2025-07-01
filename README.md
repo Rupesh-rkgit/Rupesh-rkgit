@@ -2,8 +2,8 @@
 
 
 
-- 🌱 I’m currently learning Machine Learning and Data science
-- 👯 I’m looking to collaborate on machine Learning and data science projects
+- 🌱 Working as full stack developer with Java.
+- 👯 ML/DS expert, focus on LLMS
 - 📫 Reach me at -  @kumarrupesh2002@gmail.com
 
 
